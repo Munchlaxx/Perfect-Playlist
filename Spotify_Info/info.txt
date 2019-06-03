@@ -1,0 +1,5 @@
+Redirect URL: http://localhost:3000/callback/
+
+ClientID: 789effdecbd64a839239c09a87187e15
+
+ClientSecret: 2e7d4fa4f2b14935b79244403cd6bd06
